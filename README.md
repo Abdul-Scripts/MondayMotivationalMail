@@ -4,8 +4,10 @@ Welcome to my Project called Monday Motivational Mail! This is my final project 
 
 ## Example Outputs/Emails:
 
+### Example 1:
 <img width="561" alt="ExampleEmail1" src="https://github.com/Abdul-Scripts/MondayMotivationalMail/assets/132022555/2c662f83-ecd4-4290-b368-58c385cd1630">
 
+### Example 2:
 <img width="584" alt="ExampleEmail2" src="https://github.com/Abdul-Scripts/MondayMotivationalMail/assets/132022555/4f1f866e-99fd-4a9d-9f12-3370df9a71cd">
 
 
